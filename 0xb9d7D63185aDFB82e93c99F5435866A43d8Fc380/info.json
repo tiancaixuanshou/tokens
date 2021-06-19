@@ -1,0 +1,11 @@
+{
+ "name": "Bzz1 Token",
+ "website": "https://pangolinswap.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xb9d7D63185aDFB82e93c99F5435866A43d8Fc380",
+ "type": "BEP20",
+ "symbol": "Bzz1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCc70de76CDdA98Dcc34Ac607F95871C39Cdf2446"
+}
