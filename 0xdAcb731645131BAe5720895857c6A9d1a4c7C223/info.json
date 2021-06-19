@@ -1,0 +1,11 @@
+{
+ "name": "Bzz1 Token",
+ "website": "https://pangolinswap.pro",
+ "description": "bzz1 is based on pangolin's NFT mining card, which can be exchanged for BZZ 1:1.",
+ "explorer": "https://bscscan.com/token/0xdAcb731645131BAe5720895857c6A9d1a4c7C223",
+ "type": "HECO",
+ "symbol": "Bzz1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCc70de76CDdA98Dcc34Ac607F95871C39Cdf2446"
+}
