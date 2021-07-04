@@ -1,0 +1,11 @@
+{
+ "name": "Bzzone Token",
+ "website": "https://pangolinswap.net",
+ "description": "Pangolin mine card is a platform that integrates NFT,DEX,and Mining.",
+ "explorer": "https://bscscan.com/token/0x47fA20ba81333BA507d687913bAF7c89432182A1",
+ "type": "	BEP20",
+ "symbol": "Bzzone",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbea08f758D65287F5109A63d0Edfc04A61aa78b8"
+}
